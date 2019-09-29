@@ -1,3 +1,3 @@
 ## DMM
-Calibration digital multimeter
+Calibration digital multimeter.
 Version: Python 2.7
