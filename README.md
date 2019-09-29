@@ -1,6 +1,5 @@
 ![alt text](https://github.com/itllab/DMM/blob/master/Image/1.png)
-## DMM
-Calibration digital multimeter
+## Calibration digital multimeter
 + Version: Python 2.7
 + Library: pyvisa, re, pillow, openpyxl
 + Calibrator: Fluke 5500A (5522A)
