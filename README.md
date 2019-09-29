@@ -1,4 +1,4 @@
-![alt text:center](https://github.com/itllab/DMM/blob/master/Image/1.png)
+![alt text align: center](https://github.com/itllab/DMM/blob/master/Image/1.png)
 ## DMM
 Calibration digital multimeter
 + Version: Python 2.7
