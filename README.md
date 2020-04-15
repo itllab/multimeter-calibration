@@ -1,4 +1,3 @@
-![alt text](https://github.com/itllab/DMM/blob/master/Image/1.png)
 ## Calibration digital multimeter
 + Version: Python 2.7
 + Library: pyvisa, openpyxl
