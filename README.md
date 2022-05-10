@@ -5,6 +5,7 @@
 + Supported multimeters:
   + Keysight (Agilent) Technologies: 34401A, 34410A, 34411A, 34460A, 34461A, 34465A, 34470A
 + Install: create folder ITL on disk C:\ITL and copy the folder DMM (C:\ITL\DMM)
++ Update: https://github.com/GlendenCrunch/MEASControl
 + Interface:
 
 ![alt text](https://github.com/itllab/DMM/blob/master/Image/2.png)
